@@ -15,6 +15,12 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## App Design Screens
+<img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/login_screen.jpg" width="300"> | <img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/home_screen1.jpg" width="300"> |<img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/home_screen2.jpg" width="300"> |
+
+<img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/detail_screen1.jpg" width="300"> | <img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/detail_screen1.jpg" width="300"> |
+
+
 ## Requirements
   * Any Operating System (ie. MacOS X, Linux, Windows)
   * Any IDE with Flutter SDK installed (ie. Android Studio, VSCode, IntelliJ, etc)
