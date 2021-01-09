@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ## App Design Screens
 <img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/login_screen.jpg" width="300"> | <img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/home_screen1.jpg" width="300"> |<img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/home_screen2.jpg" width="300"> |
 
-<img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/detail_screen1.jpg" width="300"> | <img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/detail_screen1.jpg" width="300"> |
+<img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/detail_screen1.jpg" width="300"> | <img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/detail_screen2.jpg" width="300"> |
 
 
 ## Requirements
