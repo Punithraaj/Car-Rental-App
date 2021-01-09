@@ -1,6 +1,6 @@
-# car_rental_app
+# Flutter car_rental_app
 
-A new Flutter application.
+A small attempt to make an e-commerce user interface in Flutter for Android and iOS.
 
 ## Getting Started
 
